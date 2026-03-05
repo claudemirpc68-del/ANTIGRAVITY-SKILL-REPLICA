@@ -10030,6 +10030,16 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "zod-validation-expert",
+    "path": "skills/zod-validation-expert",
+    "category": "uncategorized",
+    "name": "zod-validation-expert",
+    "description": "Expert in Zod \u2014 TypeScript-first schema validation. Covers parsing, custom errors, refinements, type inference, and integration with React Hook Form, Next.js, and tRPC.",
+    "risk": "safe",
+    "source": "community",
+    "date_added": "2026-03-05"
+  },
+  {
     "id": "zoho-crm-automation",
     "path": "skills/zoho-crm-automation",
     "category": "uncategorized",
